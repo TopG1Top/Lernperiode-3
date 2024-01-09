@@ -15,7 +15,7 @@ Linhard Zejneli
 
 ## 9.1.2024
 
-✍️ Heute habe ich überlegt was ich machen kann und da ich mal einen vOCI tRAINER GEMACHT HABE kam mir die Idee ihn zu verbessern da er mir etwas bringt. Ich habe meine VS Projekte angeschaut und habe überlegt wie ich was mache. Habe auch noch Videos dazu geschaut und im Internet recherchiert. (50-100 Wörter)
+✍️ Heute habe ich überlegt was ich machen kann und da ich mal einen vOCI tRAINER GEMACHT HABE kam mir die Idee ihn zu verbessern da er mir etwas bringt. Ich habe meine VS Projekte angeschaut und habe überlegt wie ich was mache. Habe auch noch Videos dazu geschaut und im Internet recherchiert.(52) (50-100 Wörter)
 
 ## 16.1 und 23.1.2024
 
