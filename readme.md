@@ -22,6 +22,7 @@ Linhard Zejneli
 - [ ] Vocabeltrainer Datei finden
 - [ ] VC Datei einlesen
 - [ ] Starten mit allem nochmal anschauen damit ich es verbessern kann
+- [ ] Den Code von Anfang an anfangen zu verbessern
 
 | estfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
@@ -36,7 +37,8 @@ Linhard Zejneli
 ## 23.1.2024
 
 - [ ] Programm weiter programmieren / Unterteilen in z.b Sprachen, Wortarten, ...
-- [ ] Machen das man z.b sieht welche wörter man weniger kann und die nochmal lernen kann   
+- [ ] Machen das man z.b sieht welche wörter man weniger kann und die nochmal lernen kann
+- [ ] Möglicherweise noch seit wie lange man schon lernt   
 
 - [] Code schöner gestalten
 
