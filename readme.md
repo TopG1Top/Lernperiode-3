@@ -25,7 +25,7 @@ Linhard Zejneli
 
 | estfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
-| 1              |   Programm gestartet        Wörter Lernen/Nomen       Wörter zb plane/Flugzeug    |                |                |          |
+| 1              |   Programm gestar    |  Wörter Lernen/Nomen       Wörter zb plane/Flugzeug              |                |          |
 | ...            |                      |                |                |          |
 | 4              |                      |                |                |          |
 
