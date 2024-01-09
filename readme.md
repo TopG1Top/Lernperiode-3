@@ -15,17 +15,17 @@ Linhard Zejneli
 
 ## 9.1.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich überlegt was ich machen kann und da ich mal einen vOCI tRAINER GEMACHT HABE kam mir die Idee ihn zu verbessern da er mir etwas bringt. Ich habe meine VS Projekte angeschaut und habe überlegt wie ich was mache. (50-100 Wörter)
 
 ## 16.1 und 23.1.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Vocabeltrainer Datei finden
+- [ ] VC Datei einlesen
+- [ ] Starten mit allem nochmal anschauen damit ich es verbessern kann
 
 | estfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
-| 1              |                      |                |                |          |
+| 1              |   Programm gestartet        Wörter Lernen/Nomen       Wörter zb plane/Flugzeug    |                |                |          |
 | ...            |                      |                |                |          |
 | 4              |                      |                |                |          |
 
@@ -35,14 +35,14 @@ Linhard Zejneli
 
 ## 23.1.2024
 
-- [ ] Fünftes AP
-- [ ] ...
+- [ ] Programm weiter programmieren / Unterteilen in z.b Sprachen, Wortarten, ...
+- [ ] Machen das man z.b sieht welche wörter man weniger kann und die nochmal lernen kann   
 
-- [ ] Achtes AP
+- [] Code schöner gestalten
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 5               |                      |                |                |          |
+| 5               |  Programm gestartet     Lerne Nomen       Apfel/apple        |                |                |          |
 | ...             |                      |                |                |          |
 | 8               |                      |                |                |          |
 
