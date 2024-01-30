@@ -58,6 +58,11 @@ Linhard Zejneli
 
 ## Reflexion
 
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
+
+. Insbesondere im Modul 319 konnte ich eine gute Leistung erzielen. Mein Ziel aus der vorherigen Lernperiode, besser zu schlafen, habe ich beibehalten, da dies meine Produktivität steigert. Ein geeignetes Projekt für Lernperiode 3 war die Verbesserung meines Vokabeltrainers. In den ersten Tagen habe ich darüber nachgedacht, wie ich ihn effektiver gestalten kann. Am 16. und 23. Januar habe ich intensiv am Code gearbeitet, verschiedene Funktionen hinzugefügt und den Trainer optimiert. Bis zum 23. Januar habe ich erfolgreich einen funktionsfähigen Code auf GitHub hochgeladen und die Testfälle erfüllt. Am 30. Januar habe ich den Code weiter verfeinert und kleine Probleme behoben. Der Vokabeltrainer hat sich zu einem nützlichen und unterhaltsamen Lernwerkzeug entwickelt, was mich motiviert hat, meine Kenntnisse zu vertiefen.
+VBF mit besser Schlafen wurde viel viel besser gemacht und somit habe ich auch viel besser gearbeitet und motivationsvoller.
+Diesen Punkt mit dem Schlaf habe ich erfüllt und behalte ich hoffentlich so bei. Mein neuer VBF wird sein genauer zu arbeiten da ich manchmal die tendenz hatte nicht immer genau zu sein. kam aber selten vor.
 
 Verfassen Sie zusätzlich einen kurzen Abschnitt, in welchem Sie über die Länge der Projekte reflektieren: Fanden Sie die 9-wöchtige LP2 oder die 4-wöchige LP3 angenehmer? Was bedeutet das für Ihre Planung der zukünftigen LP?
+
+Beide Lp fande ich gut. waren unterschiedlich aber beide gut. für mich ist keine besser als die andere. Meine Planung war bisher gut, so behalte ich sie auch bei.
