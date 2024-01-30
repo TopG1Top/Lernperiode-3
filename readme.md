@@ -19,14 +19,14 @@ Linhard Zejneli
 
 ## 16.1 und 23.1.2024
 
-- [ ] Vocabeltrainer Datei finden
-- [ ] VC Datei einlesen
-- [ ] Starten mit allem nochmal anschauen damit ich es verbessern kann
-- [ ] Den Code von Anfang an anfangen zu verbessern
+- [x] Vocabeltrainer Datei finden
+- [x] VC Datei einlesen
+- [x] Starten mit allem nochmal anschauen damit ich es verbessern kann
+- [x] Den Code von Anfang an anfangen zu verbessern
 
 | estfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
-| 1              |   Programm gestar    |  Wörter Lernen/Nomen       Wörter zb plane/Flugzeug              |                |          |
+| 1              |   Programm gestar    |  Wörter Lernen/Nomen       Wörter zb plane/Flugzeug              |   JA             |          |
 | ...            |                      |                |                |          |
 | 4              |                      |                |                |          |
 
@@ -36,25 +36,25 @@ Linhard Zejneli
 
 ## 23.1.2024
 
-- [ ] Programm weiter programmieren / Unterteilen in z.b Sprachen, Wortarten, ...
-- [ ] Machen das man z.b sieht welche wörter man weniger kann und die nochmal lernen kann
-- [ ] Möglicherweise noch seit wie lange man schon lernt   
+- [x] Programm weiter programmieren / Unterteilen in z.b Sprachen, Wortarten, ...
+- [x] Machen das man z.b sieht welche wörter man weniger kann und die nochmal lernen kann
+- [x] Möglicherweise noch seit wie lange man schon lernt   
 
-- [] Code schöner gestalten
+- [x] Code schöner gestalten
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 5               |  Programm gestartet     Lerne Nomen       Apfel/apple        |                |                |          |
+| 5               |  Programm gestartet     Lerne Nomen       Apfel/apple        |  JA              |                |          |
 | ...             |                      |                |                |          |
 | 8               |                      |                |                |          |
 
-✍️ Heute am 23.1 habe ich... (50-100 Wörter)
+✍️ Heute am 23.1 habe ich meinen code fertigestellt ich denke bis her hat er keine probleme falls einer auftaucht wird es behoben und ja. Man kann jz sehr einfach Voci trainieren. Das zu machen hat mir spass gemacht und habe es konzentriert gemacht.  (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis zum 23.1 Ihren fixfertigen Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
 ## 30.1.2024
 
-✍️ Heute am 23.1 habe ich... (50-100 Wörter)
+✍️ Heute am 30.1 habe ich weiter an meine code gefeilt gab ein wenig kleine probleme die aber gut behoben wurden Der voci Trainer bringt mir denke ich etwas. Das ganze hat sehr viel spass geamcht und war etwas herausfordernd (50-100 Wörter)
 
 ## Reflexion
 
